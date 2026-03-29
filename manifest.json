@@ -1,0 +1,16 @@
+{
+  "name": "Credit Card Debt Forgiveness -- What It Really Is",
+  "short_name": "creditcardforgiveness.org",
+  "description": "Free guide to credit card debt forgiveness, settlement, hardship programs, and bankruptcy discharge. Real information, no strings.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

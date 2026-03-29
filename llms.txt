@@ -1,0 +1,46 @@
+# creditcardforgiveness.org
+
+> Free guide to credit card debt forgiveness, settlement, hardship programs, and bankruptcy discharge.
+
+creditcardforgiveness.org is a free, open-source educational resource about credit card debt relief options -- what "forgiveness" really means, how settlement works, bank hardship programs, bankruptcy discharge, tax implications, and how to avoid scams. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://creditcardforgiveness.org/: Main guide to credit card debt forgiveness -- what it really is, how it works, and your real options.
+- https://creditcardforgiveness.org/settlement-vs-bankruptcy.html: Detailed comparison of debt settlement versus bankruptcy filing for credit card debt.
+- https://creditcardforgiveness.org/tax-implications.html: 1099-C cancellation of debt income -- the tax trap most people miss when settling credit card debt.
+- https://creditcardforgiveness.org/hardship-programs.html: Bank hardship programs explained -- what they offer, how to qualify, and what to watch out for.
+- https://creditcardforgiveness.org/scams.html: How to spot credit card debt forgiveness scams -- red flags, common tactics, and legitimate alternatives.
+- https://creditcardforgiveness.org/chapter-7.html: How Chapter 7 bankruptcy discharges credit card debt completely with no tax consequences.
+- https://creditcardforgiveness.org/chapter-13.html: How Chapter 13 bankruptcy handles credit card debt through a repayment plan.
+- https://creditcardforgiveness.org/how-much-debt.html: How much credit card debt makes forgiveness, settlement, or bankruptcy worth pursuing.
+- https://creditcardforgiveness.org/faq.html: Frequently asked questions about credit card debt forgiveness, settlement, and bankruptcy.
+
+## Key Facts
+
+- "Credit card forgiveness" is not a government program -- it usually means settlement, hardship programs, or bankruptcy discharge
+- Debt settlement typically requires paying 40-60% of the balance in a lump sum
+- Settled or forgiven debt over $600 triggers a 1099-C and is taxable as income (IRC Section 61)
+- Bankruptcy discharge under 11 U.S.C. Section 523(a) eliminates credit card debt with no tax consequences
+- The insolvency exception (IRC Section 108) can reduce or eliminate the tax on cancelled debt
+- Bank hardship programs may reduce interest rates or monthly payments but rarely reduce principal
+- Debt settlement companies charge 15-25% of enrolled debt and have high failure rates
+- Chapter 7 eliminates credit card debt entirely in 3-4 months if you qualify under the means test
+- Chapter 13 lets you pay what you can afford over 3-5 years, then discharges the rest
+
+## Network
+
+Part of the Open Bankruptcy Project:
+- 1328f.com -- Discharge eligibility screener
+- 1328f.org -- Research platform
+- creditcarddebtbankruptcy.org -- Credit card debt in bankruptcy
+- debtsettlementvsbankruptcy.com -- Settlement vs bankruptcy comparison
+- 523a.org -- Nondischargeable debts
+- automaticstay.org -- The automatic stay
+- meanstest.org -- Chapter 7 means test
+- 341meeting.org -- Meeting of creditors
+- howmuchdoesbankruptcycost.com -- Bankruptcy cost guide
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.
