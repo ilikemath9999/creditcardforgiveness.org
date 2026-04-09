@@ -1,0 +1,2299 @@
+# creditcardforgiveness.org -- Full Content
+
+This file contains the full text content of all pages on creditcardforgiveness.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## How Chapter 13 Handles Credit Card Debt -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/chapter-13.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+How Chapter 13 Handles Credit Card Debt
+
+Pay what you can afford over 3-5 years. The remaining balance is discharged.
+
+Network › Credit Card Forgiveness › Chapter 13
+
+Credit Card Debt in a Chapter 13 Plan
+
+In Chapter 13, debts are organized by priority. Credit card debt falls into the lowest priority category: general unsecured claims. This means credit card creditors get paid last -- after administrative expenses, priority claims (like taxes and domestic support), and secured claims (like mortgages and car loans).
+
+Your monthly plan payment is determined by your disposable income -- the difference between your income and your allowed expenses. Whatever is left after higher-priority debts are paid goes to general unsecured creditors, including credit card companies.
+
+Key concept: In many Chapter 13 cases, unsecured creditors receive only a small percentage of their claims -- sometimes as low as 0-10%. The remaining balance is discharged at the end of the plan with no tax consequences.
+
+How Much Do You Actually Pay?
+
+The amount credit card creditors receive depends on several factors:
+
+Your disposable income -- more income means higher plan payments
+
+Your secured debts -- mortgage arrears and car loans must be paid through the plan
+
+Priority debts -- back taxes and support obligations must be paid in full
+
+Plan length -- below-median income: 3 years; above-median income: 5 years
+
+Example
+
+Assume: $800/month disposable income, 5-year plan, $10,000 in priority tax debt, $50,000 in credit card debt.
+
+Total plan payments: $800 x 60 months = $48,000
+
+Trustee fee (~10%): $4,800
+
+Priority tax debt (paid in full): $10,000
+
+Available for unsecured creditors: $48,000 - $4,800 - $10,000 = $33,200
+
+Unsecured creditor recovery: $33,200 / $50,000 = 66.4%
+
+Remaining $16,800 is discharged
+
+In cases with lower disposable income or higher priority/secured debts, the percentage paid to unsecured creditors can be much lower.
+
+Why Choose Chapter 13 Over Chapter 7?
+
+If Chapter 7 eliminates credit card debt faster and more completely, why would anyone choose Chapter 13? Several reasons:
+
+Failed the means test -- Income too high for Chapter 7
+
+Protect non-exempt property -- Chapter 13 lets you keep all property as long as unsecured creditors receive at least as much as they would in Chapter 7
+
+Catch up on mortgage or car payments -- Chapter 13 lets you cure arrears over the plan period while keeping the property
+
+Within the discharge bar -- If you filed Chapter 7 within the last 8 years, you cannot get another Chapter 7 discharge, but you may qualify for Chapter 13 (check eligibility)
+
+Strip junior liens -- In some circuits, Chapter 13 allows lien stripping of underwater second mortgages
+
+Nondischargeable debts -- Some debts that survive Chapter 7 (like certain taxes or fraud judgments) can be paid through the Chapter 13 plan
+
+The Commitment
+
+Chapter 13 requires real commitment:
+
+3-5 years of monthly payments to the Chapter 13 trustee
+
+No new debt without court approval during the plan
+
+Tax returns must be filed on time and copies provided to the trustee
+
+Income changes may require plan modifications
+
+Completion rate: Nationally, only about 33-40% of Chapter 13 cases result in a discharge. The rest are dismissed, converted, or otherwise terminated before completion.
+
+Completion risk is real. If your case is dismissed before you finish the plan, you do not receive a discharge. Your creditors can resume collection of the full remaining balance. The money you paid into the plan does reduce your debt, but you lose the protection of the automatic stay and the promise of discharge.
+
+Chapter 13 vs. Debt Settlement for Credit Cards
+
+Chapter 13 has several advantages over debt settlement for credit card debt:
+
+Credit card creditors cannot refuse -- the plan is binding once confirmed by the court
+
+No 1099-C -- the discharged balance is not taxable income
+
+The automatic stay stops all collection, lawsuits, and garnishment immediately
+
+All debts are addressed in one plan, not negotiated one by one
+
+Interest stops accruing on unsecured debt during the plan
+
+Full comparison: settlement vs bankruptcy →
+
+Related Pages
+
+Chapter 7 and credit card debt
+
+Settlement vs bankruptcy comparison
+
+How much debt makes bankruptcy worth it
+
+Tax implications of debt forgiveness
+
+Discharge eligibility screener
+
+creditcarddebtbankruptcy.org
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+523a.org
+meanstest.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## How Chapter 7 Discharges Credit Card Debt -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/chapter-7.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+How Chapter 7 Discharges Credit Card Debt
+
+100% elimination. No payments. No tax consequences. 3-4 months.
+
+Network › Credit Card Forgiveness › Chapter 7
+
+Credit Card Debt in Chapter 7
+
+Credit card debt is general unsecured debt -- the most favorable category for discharge. In a Chapter 7 case, general unsecured debts are eliminated entirely. You do not pay back any portion. The creditor receives nothing unless you have non-exempt assets for the trustee to liquidate (most Chapter 7 cases are "no-asset" cases).
+
+Key point: Unlike debt settlement, a bankruptcy discharge creates a permanent court order (the discharge injunction) that prohibits creditors from ever attempting to collect the debt again. Violation of this order is contempt of court.
+
+How It Works -- Step by Step
+
+Credit counseling -- You must complete a credit counseling course from a DOJ-approved agency within 180 days before filing
+
+File the petition -- Your attorney files the bankruptcy petition, schedules, and statements with the bankruptcy court. The filing fee is $338.
+
+Automatic stay -- The moment the petition is filed, the automatic stay takes effect. All collection activity, lawsuits, garnishments, and creditor harassment must stop immediately.
+
+341 meeting -- Approximately 30-45 days after filing, you attend a brief meeting of creditors (usually by phone or video). The trustee asks questions about your assets and finances. Creditors rarely appear.
+
+Financial management course -- You must complete a debtor education course before discharge
+
+Discharge -- Approximately 60 days after the 341 meeting, the court enters the discharge order. All dischargeable debts, including credit card debt, are permanently eliminated.
+
+Total timeline: approximately 3-4 months from filing to discharge.
+
+The Means Test
+
+To file Chapter 7, you must pass the means test. This is a two-part test:
+
+Part 1: Median Income
+
+If your household income (averaged over the 6 months before filing) is below the median income for your state and household size, you pass automatically. No further analysis needed.
+
+Part 2: Disposable Income
+
+If your income is above the median, the test calculates your "disposable income" after deducting IRS-allowed expenses. If the result shows you cannot afford to repay a meaningful portion of your unsecured debt, you still qualify.
+
+Tip: Many people with above-median income still pass the means test after deducting mortgage/rent payments, vehicle costs, medical expenses, and other allowed expenses. Do not assume you are ineligible without running the numbers.
+
+The Fraud Exception
+
+There is one situation where credit card debt might survive a Chapter 7 discharge: fraud.
+
+Under 11 U.S.C. Section 523(a)(2)(C), two types of recent credit card use are presumed fraudulent:
+
+Luxury goods or services over $800 charged to a single creditor within 90 days before filing
+
+Cash advances over $1,100 within 70 days before filing
+
+These create a rebuttable presumption of fraud. The creditor must file an adversary proceeding to enforce this -- it does not happen automatically. And the presumption can be overcome if you can show the charges were for necessities or you intended to repay at the time.
+
+Practical advice: Stop using your credit cards as soon as you decide to file bankruptcy. This avoids any potential nondischargeability issues. If you have made large charges or cash advances recently, discuss this with your attorney before filing.
+
+For a comprehensive list of nondischargeable debts, see 523a.org.
+
+What Happens to Your Credit
+
+A Chapter 7 filing stays on your credit report for 10 years. However:
+
+If you are already behind on payments, your credit is already damaged. The bankruptcy replaces multiple delinquencies with a single event.
+
+Most people see their credit score begin recovering within 12-18 months after discharge
+
+You can typically qualify for secured credit cards immediately after discharge
+
+Auto loans are commonly available 1-2 years after discharge
+
+Mortgage qualification is typically possible 2-4 years after discharge (FHA: 2 years, conventional: 4 years)
+
+Chapter 7 vs. Settlement for Credit Card Debt
+
+For most people with significant credit card debt, Chapter 7 is faster, cheaper, and more complete than settlement. See our detailed comparison.
+
+The big difference: Settlement costs 40-60% of the debt plus fees and taxes. Chapter 7 costs $338 + attorney fees and eliminates 100% with no tax consequences.
+
+Related Pages
+
+Chapter 13 and credit card debt
+
+Settlement vs bankruptcy comparison
+
+Tax implications (why discharge is not taxable)
+
+How much debt makes bankruptcy worth it
+
+Means test guide
+
+The automatic stay
+
+Nondischargeable debts
+
+Discharge eligibility screener
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+523a.org
+meanstest.org
+automaticstay.org
+341meeting.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Credit Card Debt Forgiveness FAQ -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/faq.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+Frequently Asked Questions
+
+Common questions about credit card debt forgiveness, settlement, and bankruptcy -- answered plainly.
+
+Network › Credit Card Forgiveness › FAQ
+
+General Questions
+
+Is there a government credit card forgiveness program?
+
+No. There is no federal or state government program that forgives credit card debt. Companies advertising "government forgiveness programs" are selling debt settlement services. The only government mechanism for eliminating credit card debt is bankruptcy -- a federal court process, not a program you sign up for through a private company.
+
+What is the difference between forgiveness, settlement, and discharge?
+
+Forgiveness is a marketing term, not a legal concept. Settlement means a creditor agrees to accept less than you owe -- the forgiven amount is usually taxable. Discharge is a court order in bankruptcy that permanently eliminates the debt -- not taxable. Read the full comparison.
+
+Can I negotiate with credit card companies myself?
+
+Yes. You can call your credit card company directly and ask for a hardship program, reduced interest rate, or settlement offer. You do not need a company to do this for you. Many creditors prefer working directly with cardholders. Call the number on the back of your card and ask for the hardship or financial assistance department.
+
+What is the difference between debt consolidation and debt settlement?
+
+Debt consolidation is a new loan that pays off multiple debts, leaving you with one payment at a (hopefully) lower interest rate. You still owe the full amount. Debt settlement is negotiating with creditors to accept less than you owe. These are completely different approaches, though some companies use the terms interchangeably in their marketing.
+
+Settlement Questions
+
+How much can I settle credit card debt for?
+
+Settlement amounts vary widely, but typical settlements range from 40% to 60% of the outstanding balance. Some creditors will accept less if the account is severely delinquent (180+ days). The amount depends on the creditor, the age of the debt, your financial situation, and whether you can pay in a lump sum.
+
+Will settling credit card debt hurt my credit?
+
+Yes. Settled accounts appear on your credit report as "settled for less than full balance" for 7 years. Accounts must typically be delinquent before creditors will negotiate, and those delinquencies also damage your credit. However, if you are already behind on payments, your credit is already being damaged.
+
+Can creditors sue me while I am trying to settle?
+
+Yes. Settlement companies cannot stop lawsuits. Only the automatic stay in bankruptcy can halt a pending or threatened lawsuit. If you are at risk of being sued, this is an important factor in choosing between settlement and bankruptcy.
+
+Do I have to pay taxes on settled debt?
+
+Usually, yes. Forgiven debt over $600 is reported on a 1099-C and is taxable income. The insolvency exception may reduce or eliminate this tax if your liabilities exceed your assets. Debt discharged in bankruptcy is never taxable.
+
+Bankruptcy Questions
+
+Does bankruptcy eliminate credit card debt?
+
+Yes. Credit card debt is general unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. In Chapter 7, the debt is eliminated in approximately 3-4 months. In Chapter 13, you pay what you can afford over 3-5 years, and any remaining balance is discharged.
+
+Do I have to include all my credit cards in bankruptcy?
+
+Yes. You must list all debts and all creditors in your bankruptcy schedules. You cannot selectively include some credit cards and exclude others. However, you can voluntarily continue paying any creditor after the discharge if you choose to maintain a relationship with a particular lender.
+
+Will I lose my credit cards if I file bankruptcy?
+
+Yes, all existing credit cards will be cancelled. However, you can typically obtain a secured credit card shortly after discharge. Many people receive unsecured credit card offers within 12-18 months, though at higher interest rates initially.
+
+Can I use my credit cards right before filing bankruptcy?
+
+You should not. Under 11 U.S.C. Section 523(a)(2)(C), luxury purchases over $800 within 90 days and cash advances over $1,100 within 70 days are presumed nondischargeable. Stop using credit cards as soon as you decide to file. Learn more about nondischargeable debts.
+
+How do I find a good bankruptcy attorney?
+
+Look for an attorney who focuses on consumer bankruptcy. Get at least 2-3 free consultations. Ask about their experience, fees, what is included, and how they communicate. Check reviews and bar association records. Ask whether they will personally handle your case or delegate to staff. See also: prosedebtors.org for pro se resources.
+
+Can I file bankruptcy without an attorney?
+
+Legally, yes (this is called filing "pro se"). However, bankruptcy law is complex, and mistakes can result in losing property, having your case dismissed, or losing your discharge. Chapter 7 is somewhat simpler; Chapter 13 is extremely difficult without legal help. If cost is a concern, look for legal aid organizations or attorneys who offer payment plans. See prosedebtors.org.
+
+Is there a minimum amount of debt to file bankruptcy?
+
+No. The Bankruptcy Code does not set a minimum. However, filing costs ($338 filing fee plus attorney fees) make it most cost-effective when total debt exceeds approximately $10,000-$15,000. See our debt-level analysis.
+
+Tax Questions
+
+What is a 1099-C?
+
+Form 1099-C (Cancellation of Debt) is an IRS form that creditors must file when they cancel $600 or more of debt. It reports the cancelled amount as income. You must include this amount on your tax return unless an exclusion applies (insolvency or bankruptcy). Full guide to 1099-C.
+
+What is the insolvency exception?
+
+Under IRC Section 108(a)(1)(B), if your total liabilities exceed your total assets at the time debt is cancelled, you can exclude the cancelled amount from income up to the amount of your insolvency. You must file IRS Form 982. Full explanation with examples.
+
+Is debt discharged in bankruptcy taxable?
+
+No. Under IRC Section 108(a)(1)(A), debt discharged in bankruptcy is excluded from gross income. This applies to both Chapter 7 and Chapter 13 discharges. No 1099-C is required, and if you receive one, you file Form 982 checking Box 1a to exclude it.
+
+Still Have Questions?
+
+This site provides general information. For advice specific to your situation, consult with a bankruptcy attorney (most offer free initial consultations) or a DOJ-approved nonprofit credit counselor.
+
+Explore our other guides:
+
+Settlement vs bankruptcy comparison
+
+1099-C and tax implications
+
+Bank hardship programs
+
+How to spot scams
+
+Chapter 7 and credit card debt
+
+Chapter 13 and credit card debt
+
+How much debt makes it worth it
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+523a.org
+automaticstay.org
+meanstest.org
+prosedebtors.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Credit Card Hardship Programs -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/hardship-programs.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+Credit Card Hardship Programs
+
+What banks actually offer, how to qualify, and what the fine print says.
+
+Network › Credit Card Forgiveness › Hardship Programs
+
+What Hardship Programs Are
+
+A credit card hardship program is an arrangement between you and your card issuer that temporarily modifies your account terms because of financial difficulty. They go by many names -- financial hardship program, payment assistance plan, credit counseling plan, workout agreement.
+
+These are not publicly advertised. You have to call and ask. The number is on the back of your card.
+
+What They Typically Offer
+
+Reduced interest rate: Often 0-5% APR for 6-12 months (down from 20-30%)
+
+Lower minimum payment: May be reduced by 25-50%
+
+Fee waivers: Late fees, over-limit fees, and penalty APR may be waived
+
+Account freeze: Your card is closed to new purchases
+
+Fixed repayment term: Some programs set a 12-60 month payoff schedule
+
+What Hardship Programs Do NOT Offer
+
+Hardship programs rarely reduce the principal balance. You still owe the full amount. The program just makes the payments more manageable by lowering the interest rate and fees.
+
+They do not forgive any portion of your debt
+
+They do not stop lawsuits if a creditor decides to sue
+
+They do not stop wage garnishment if a judgment already exists
+
+They do not prevent the account from being reported as modified or restricted on your credit report
+
+They are temporary -- once the program ends, regular terms resume on any remaining balance
+
+Major Issuer Programs
+
+IssuerProgram NameTypical TermsHow to Apply
+
+ChasePayment AssistanceReduced APR, lower min payment, 6-12 moCall 800-935-9935
+
+Capital OneFinancial HardshipDeferred payments or reduced APRCall 800-227-4825
+
+CitiFlexible Payment Plan0% APR for 6-12 mo, fixed paymentsCall 800-950-5114
+
+DiscoverPayment ProtectionReduced min payment, rate reductionCall 800-347-2683
+
+Bank of AmericaCustomer AssistanceRate reduction, payment modificationCall 800-732-9194
+
+American ExpressFinancial ReliefReduced APR, extended termsCall 866-703-4169
+
+Programs and phone numbers may change. Call the number on the back of your specific card for the most current information.
+
+How to Apply
+
+Call the issuer directly. Ask for the "hardship department" or "financial assistance." Do not use a third-party company for this -- they cannot do anything you cannot do yourself for free.
+
+Explain your situation honestly. Job loss, medical emergency, divorce, reduced hours, or other documented hardship. Be specific about what happened and when.
+
+Ask what programs are available. There may be more than one option. Ask about each and get the specific terms in writing before agreeing.
+
+Get everything in writing. Before making any payment under the new terms, get a written confirmation of the modified terms.
+
+Keep making payments. Missing payments during the hardship program may cause it to be cancelled and your original terms reinstated.
+
+When Hardship Programs Are Not Enough
+
+Hardship programs work best when your financial difficulty is temporary and you can realistically pay off the full balance at a reduced rate. They are less useful when:
+
+You have debt with multiple creditors (each must be contacted separately)
+
+The total debt exceeds what you can repay even at 0% interest
+
+Your income reduction is permanent, not temporary
+
+You are already being sued or garnished
+
+The program period is too short to make a meaningful dent
+
+In these situations, settlement or bankruptcy may be more appropriate options.
+
+Hardship Programs vs. Credit Counseling
+
+Nonprofit credit counseling agencies (like those approved by the DOJ for bankruptcy) offer Debt Management Plans (DMPs) that work similarly to hardship programs but with some differences:
+
+A DMP consolidates all your credit card payments into one monthly payment
+
+The agency negotiates reduced rates with all your creditors at once
+
+Monthly fees are typically $25-50
+
+Plans usually run 3-5 years
+
+All enrolled accounts are closed
+
+Credit counseling can be a useful middle ground, but like hardship programs, it does not reduce the principal balance.
+
+Related Pages
+
+Credit card debt forgiveness overview
+
+Settlement vs bankruptcy comparison
+
+How much debt makes bankruptcy worth considering
+
+How to spot debt relief scams
+
+How much does bankruptcy cost
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+523a.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## How Much Credit Card Debt Makes Forgiveness or Bankruptcy Worth It -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/how-much-debt.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+How Much Debt Makes It Worth It?
+
+Practical break-even analysis for settlement, hardship programs, and bankruptcy.
+
+Network › Credit Card Forgiveness › How Much Debt
+
+There Is No Minimum -- But There Are Practical Thresholds
+
+The Bankruptcy Code does not require a minimum debt amount. You can file Chapter 7 with $1,000 in debt or $1,000,000. But the cost of filing makes some options more practical at different debt levels.
+
+By Debt Level
+
+Under $5,000
+
+Best option: Call your creditors directly. Ask for hardship programs, payment plans, or a direct settlement.
+
+Bankruptcy is usually not cost-effective at this level. Filing fees ($338) plus attorney fees ($1,000-2,500) represent a significant percentage of the debt.
+
+Settlement companies are also poor choices here -- their fees may approach the debt itself.
+
+If you have multiple small debts totaling under $5,000, a nonprofit credit counseling DMP may help.
+
+$5,000 -- $15,000
+
+Consider: Direct settlement (if you have lump-sum cash), hardship programs, or bankruptcy if you have other debts too.
+
+At $10,000+, Chapter 7 becomes clearly cost-effective: ~$1,800 in costs to eliminate $10,000+ in debt.
+
+Settlement at this level means paying $4,000-9,000 plus taxes and fees -- often close to the cost of just paying the debt.
+
+$15,000 -- $50,000
+
+Bankruptcy becomes strongly favorable. At $25,000 in credit card debt, Chapter 7 costs ~$1,800 vs. settlement costs of $15,000-20,000.
+
+The tax consequences of settlement become significant at this level.
+
+If you are being sued or garnished, only bankruptcy provides the automatic stay.
+
+Over $50,000
+
+Bankruptcy is almost always the right answer. Settlement of $50,000+ in debt costs $25,000-40,000 plus $5,000-11,000 in taxes. Chapter 7 eliminates it all for under $2,500.
+
+At this level, the risk of lawsuits during a settlement program is very high. Creditors are more likely to sue when balances are large.
+
+If you do not qualify for Chapter 7, Chapter 13 still provides a court-supervised plan with a guaranteed discharge at the end.
+
+Cost Comparison Table
+
+Total CC DebtSettlement Cost*Chapter 7 CostSavings with Ch. 7
+
+$10,000$7,200 - $9,700~$1,800$5,400 - $7,900
+
+$25,000$16,500 - $22,250~$1,800$14,700 - $20,450
+
+$50,000$32,400 - $43,500~$2,000$30,400 - $41,500
+
+$100,000$64,200 - $86,000~$2,500$61,700 - $83,500
+
+*Settlement cost includes: 50% settlement + 20% company fee + 22% tax on forgiven amount (assumes solvent). Chapter 7 cost includes $338 filing fee + typical attorney fee.
+
+Other Factors Beyond the Dollar Amount
+
+The amount of debt is important, but it is not the only factor. Consider:
+
+Are you being sued? Only bankruptcy stops a lawsuit immediately.
+
+Are your wages being garnished? Only bankruptcy stops garnishment.
+
+Do you have other debts? Medical bills, personal loans, and deficiency balances can all be discharged too. The total matters more than credit card debt alone.
+
+Is the debt growing? At 25% APR, a $20,000 balance adds $5,000/year in interest. Waiting costs money.
+
+Can you actually pay? If minimum payments consume all your disposable income, the debt will never decrease regardless of the amount.
+
+The 40% Rule of Thumb
+
+If your total unsecured debt exceeds 40% of your annual gross income, and you cannot pay it off within 3-5 years at your current payment level, professional debt relief (settlement or bankruptcy) deserves serious consideration. At this ratio, minimum payments are barely covering interest, and the debt is growing or stagnant.
+
+Related Pages
+
+Settlement vs bankruptcy comparison
+
+How Chapter 7 discharges credit card debt
+
+How Chapter 13 handles credit card debt
+
+Tax implications of settlement
+
+How much does bankruptcy cost
+
+Means test guide
+
+Check discharge eligibility
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+howmuchdoesbankruptcycost.com
+meanstest.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Credit Card Forgiveness -- Programs & Options [2026] -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Credit Card Forgiveness
+
+What it really is, how it actually works, and what nobody selling you something will tell you.
+
+There is no government "credit card forgiveness program."
+
+What exists: debt settlement, bank hardship programs, and bankruptcy discharge. Each works differently. Each has trade-offs. This guide covers all of them.
+
+Network › Credit Card Debt Forgiveness
+
+Settlement vs Bankruptcy
+
+Side-by-side comparison -- costs, timeline, credit impact, and tax consequences.
+
+Tax Implications (1099-C)
+
+Settled debt is taxable income. Here is how the math works and when exceptions apply.
+
+Hardship Programs
+
+What banks actually offer, how to qualify, and what the fine print says.
+
+Scams to Avoid
+
+Red flags, common tactics, and how to tell a scam from a legitimate service.
+
+Chapter 7 Discharge
+
+How Chapter 7 eliminates credit card debt entirely in 3-4 months.
+
+Chapter 13 Repayment
+
+Pay what you can afford over 3-5 years, discharge the rest.
+
+How Much Debt?
+
+When does it make sense to pursue forgiveness, settlement, or bankruptcy?
+
+FAQ
+
+Common questions about credit card debt relief -- answered plainly.
+
+What "Credit Card Forgiveness" Actually Means
+
+If you search for "credit card debt forgiveness," you will find hundreds of ads from companies promising to make your debt disappear. The reality is more complicated.
+
+"Forgiveness" is a marketing term. It is not a legal concept and it does not describe any specific program. When companies use this word, they are usually talking about one of three things:
+
+Debt settlement -- negotiating with creditors to accept a lump sum that is less than the full balance
+
+Hardship programs -- bank programs that temporarily reduce your interest rate or minimum payment
+
+Bankruptcy discharge -- a federal court order that permanently eliminates the debt
+
+Each of these works differently. Each has real costs, real consequences, and real trade-offs that the advertisements do not mention.
+
+The Three Real Options
+
+1. Debt Settlement
+
+Debt settlement means paying your creditor less than the full balance in exchange for them marking the debt as resolved. Typical settlements range from 40% to 60% of the outstanding balance.
+
+Usually requires a lump sum payment
+
+Your account must typically be delinquent (90-180+ days) before creditors will negotiate
+
+The forgiven amount is taxable income -- you will receive a 1099-C
+
+Settlement companies charge 15-25% of enrolled debt
+
+Success rates for settlement programs are often below 50%
+
+Your credit score will drop significantly during the delinquency period
+
+Full comparison: settlement vs. bankruptcy →
+
+2. Bank Hardship Programs
+
+Most major credit card issuers offer hardship programs for customers experiencing financial difficulty. These programs may:
+
+Reduce your interest rate temporarily (often to 0-5% for 6-12 months)
+
+Lower your minimum monthly payment
+
+Waive late fees and over-limit fees
+
+Freeze your account to prevent new charges
+
+Hardship programs rarely reduce the principal balance. They make the debt more manageable but do not eliminate it.
+
+How hardship programs work →
+
+3. Bankruptcy Discharge
+
+Bankruptcy is the only option that permanently and completely eliminates credit card debt with no tax consequences. Credit card debt is general unsecured debt and is fully dischargeable under the Bankruptcy Code.
+
+Chapter 7: Eliminates credit card debt entirely in approximately 3-4 months. You must qualify under the bankruptcy means test guide. Learn more →
+
+Chapter 13: You pay what you can afford over 3-5 years based on your disposable income. Any remaining credit card balance is discharged at the end. Learn more →
+
+Key difference: Discharged debt is not taxable income. Under IRC Section 108(a)(1)(A), debt discharged in a Title 11 bankruptcy case is excluded from gross income. You will not receive a 1099-C for debt eliminated in bankruptcy.
+
+Quick Comparison
+
+Factor
+Settlement
+Hardship Program
+Chapter 7
+Chapter 13
+
+Debt eliminated?
+Partially (40-60%)
+No
+Yes, 100%
+Yes, remainder after plan
+
+Tax on forgiven amount?
+Yes (1099-C)
+N/A
+No
+No
+
+Timeline
+2-4 years
+6-12 months
+3-4 months
+3-5 years
+
+Credit impact
+Severe
+Moderate
+Severe (rebuilds faster)
+Severe
+
+Cost
+40-60% of debt + fees
+Full balance (lower rate)
+$338 filing fee + attorney
+Disposable income for 3-5 yrs
+
+Lawsuits stopped?
+No
+No
+Yes (automatic stay protection in bankruptcy)
+Yes (automatic stay)
+
+Garnishment stopped?
+No
+No
+Yes, immediately
+Yes, immediately
+
+Detailed comparison →
+
+The Tax Trap Nobody Mentions
+
+When a creditor forgives or settles debt for less than the full balance, the IRS treats the forgiven portion as income. If you owe $30,000 and settle for $15,000, the other $15,000 is reported on a 1099-C and added to your taxable income for that year.
+
+For someone in the 22% tax bracket, that $15,000 in "forgiven" debt creates a $3,300 tax bill. Many people who settle their credit card debt are surprised by this the following April.
+
+The insolvency exception may help. Under IRC Section 108(b), if your total liabilities exceed your total assets at the time the debt is cancelled, you may be able to exclude some or all of the cancelled debt from income. But you must file IRS Form 982 to claim this.
+
+Bankruptcy discharge avoids this entirely. Debt discharged under Title 11 is excluded from gross income by statute.
+
+Full guide to 1099-C and tax implications →
+
+How to Avoid Scams
+
+The debt relief industry is full of companies that charge high fees for services that often fail. Watch for these red flags:
+
+Guaranteed results -- No one can guarantee a creditor will settle
+
+Upfront fees -- The FTC's Telemarketing Sales Rule prohibits debt settlement companies from charging fees before settling a debt
+
+"Government program" claims -- There is no government credit card forgiveness program
+
+Telling you to stop paying without explaining the consequences (lawsuits, garnishment, credit damage)
+
+Pressuring you to sign immediately -- Legitimate services give you time to decide
+
+Complete scam guide with FTC resources →
+
+Check Your Bankruptcy Eligibility
+
+Free screener -- no personal information required, no sales pitch.
+
+Discharge Screener
+Means Test Guide
+
+Related Resources
+
+credit card debt in bankruptcy -- Credit card debt in bankruptcy explained
+
+debtsettlementvsbankruptcy.com -- Settlement vs bankruptcy deep dive
+
+Section 523(a) nondischargeable debts -- Which debts cannot be discharged in bankruptcy
+
+how much bankruptcy costs -- What bankruptcy actually costs
+
+bankruptcy means test guide -- Chapter 7 means test guide
+
+automatic stay protection in bankruptcy -- How the automatic stay stops lawsuits and garnishment
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Which chapter addresses your type of debt?
+
+chapter7vs13.org →
+
+How Much Does It Cost?
+
+Filing fees and attorney costs by chapter
+
+howmuchdoesbankruptcycost.com →
+
+The Automatic Stay
+
+How filing immediately stops collections
+
+automaticstay.org →
+
+How Discharge Works
+
+Which debts get wiped and which survive
+
+bankruptcydischarge.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+523a.org
+automaticstay.org
+meanstest.org
+341meeting.org
+727a8.com
+109g.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Credit Card Debt Forgiveness Scams -- How to Spot Them -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/scams.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+Debt Forgiveness Scams
+
+How to spot fraud, what the FTC requires, and where to report it.
+
+Network › Credit Card Forgiveness › Scams
+
+The Scam Landscape
+
+The debt relief industry generates billions of dollars annually. The FTC, CFPB, and state attorneys general regularly bring enforcement actions against companies that charge excessive fees, make false promises, and leave consumers worse off than before.
+
+The most common scam is not a back-alley operation -- it is a professional-looking company with a website, phone number, and sales team that charges thousands of dollars for services that fail more often than they succeed.
+
+Red Flags
+
+1. Upfront fees. Under the FTC's Telemarketing Sales Rule, debt settlement companies cannot charge fees before they settle at least one of your debts. If a company asks for money before doing any work, they are violating federal law.
+
+2. "Government program" claims. There is no government credit card forgiveness program. No federal agency is "offering" to forgive your credit card debt. Any company claiming otherwise is lying.
+
+3. Guaranteed results. No company can guarantee that a creditor will settle. Creditors are not required to negotiate. Anyone guaranteeing a specific percentage reduction is making a promise they cannot keep.
+
+4. Pressure to stop paying creditors without explaining the risks. Legitimate services explain that stopping payments may result in lawsuits, garnishment, additional fees, interest, and serious credit damage.
+
+5. Telling you not to talk to your creditors. You always have the right to communicate directly with your creditors. A company that tells you to cut off contact may be trying to prevent you from learning about better options the creditor offers directly (like hardship programs).
+
+6. Pressure to sign immediately. "This offer expires today" or "We can only help you if you sign up now." Legitimate services give you time to review terms, consult other sources, and make an informed decision.
+
+What the FTC Requires
+
+The FTC's amended Telemarketing Sales Rule (effective October 27, 2010) requires debt settlement companies to:
+
+Not charge fees before settling a debt. Fees can only be collected after a settlement is reached AND accepted by the consumer AND at least one payment is made.
+
+Disclose material information before enrollment, including:
+
+The total cost and individual fees
+
+How long the program will take
+
+The consequences of not making payments (lawsuits, damage to credit, tax liability)
+
+That funds in a dedicated account remain the consumer's property
+
+Use dedicated accounts that are owned by the consumer and administered by an insured, independent financial institution
+
+Note: These rules apply to companies that contact consumers by phone or that consumers contact as a result of advertising. Companies that only operate face-to-face may not be covered by the TSR, but state laws often provide similar protections.
+
+Common Scam Tactics
+
+"Debt Validation" Schemes
+
+Some companies charge hundreds of dollars to send debt validation letters to creditors under the FDCPA. You can do this yourself for free. The FDCPA gives you the right to request validation -- no company is needed.
+
+Fake Nonprofit Credit Counseling
+
+Some organizations claim nonprofit status but operate as for-profit businesses, charging excessive fees and providing little actual counseling. Check the DOJ's list of approved credit counseling agencies before working with any organization.
+
+"Consolidation Loans" That Are Not Loans
+
+Companies advertise "debt consolidation" but enroll you in a debt settlement program instead. A real consolidation loan replaces multiple debts with a single loan at a lower interest rate. A settlement program is not a loan -- it is a plan to stop paying creditors and negotiate later.
+
+Advance-Fee Bankruptcy Petition Preparers
+
+Under 11 U.S.C. Section 110, bankruptcy petition preparers (non-attorneys who help fill out forms) are limited in what they can charge and what they can do. Some preparers charge excessive fees, provide legal advice they are not qualified to give, or file cases without the debtor's knowledge.
+
+Where to Report Fraud
+
+FTC: reportfraud.ftc.gov
+
+CFPB: consumerfinance.gov/complaint
+
+Your State Attorney General: naag.org/find-my-ag
+
+Better Business Bureau: bbb.org/file-a-complaint
+
+Legitimate Alternatives
+
+Contact your creditors directly -- hardship programs are free
+
+DOJ-approved nonprofit credit counseling
+
+Consult a bankruptcy attorney -- most offer free initial consultations
+
+Check your discharge eligibility with our free screener
+
+Related Pages
+
+Credit card debt forgiveness overview
+
+Settlement vs bankruptcy
+
+Bank hardship programs
+
+Tax implications of debt forgiveness
+
+debtsettlementvsbankruptcy.com
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+523a.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Debt Settlement vs Bankruptcy for Credit Card Debt -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/settlement-vs-bankruptcy.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+Debt Settlement vs Bankruptcy
+
+A side-by-side comparison for people with credit card debt who need to make a real decision.
+
+Network › Credit Card Forgiveness › Settlement vs Bankruptcy
+
+The Core Difference
+
+Debt settlement and bankruptcy both deal with credit card debt you cannot pay. But they work in fundamentally different ways:
+
+Settlement is a private negotiation. You (or a company you hire) ask creditors to accept less. They can say no. Nothing forces them to negotiate.
+
+Bankruptcy is a federal court proceeding. Once the court grants a discharge, creditors have no choice. The debt is eliminated by law and they are permanently barred from collecting.
+
+Detailed Comparison
+
+FactorDebt SettlementChapter 7 BankruptcyChapter 13 Bankruptcy
+
+How much debt eliminated40-60% (if creditor agrees)100%Remainder after 3-5 year plan
+
+Guaranteed?No -- creditor can refuseYes, if eligibleYes, if plan completed
+
+Tax on forgiven amountYes -- 1099-C issuedNoNo
+
+Timeline2-4 years3-4 months3-5 years
+
+Stops lawsuits?NoYes -- automatic stayYes -- automatic stay
+
+Stops garnishment?NoYes, immediatelyYes, immediately
+
+Stops creditor calls?Not guaranteedYes -- automatic stayYes -- automatic stay
+
+Cost for $50K debt$20-30K + $7.5-12.5K fees + tax$338 + $1,000-2,500 attorneyDisposable income x 36-60 mo
+
+Credit reportSettled accounts for 7 yearsChapter 7 for 10 yearsChapter 13 for 7 years
+
+Affects all debts?Only debts enrolledAll dischargeable debtsAll debts in plan
+
+Income requirementNeed cash for settlementMust pass means testMust have regular income
+
+Asset riskNoneNon-exempt assetsNone (keep all property)
+
+The Math: A Real Example
+
+Assume you have $40,000 in credit card debt across 4 cards.
+
+Settlement Path
+
+Settlement amount (50%): $20,000
+
+Settlement company fee (20%): $8,000
+
+Tax on $20,000 forgiven (22% bracket): $4,400
+
+Total cost: $32,400
+
+Timeline: 2-4 years
+
+Risk: Creditors may sue during delinquency period. One or more may refuse to settle.
+
+Chapter 7 Path
+
+Filing fee: $338
+
+Attorney fee (typical): $1,500
+
+Tax on discharged debt: $0
+
+Total cost: $1,838
+
+Timeline: 3-4 months
+
+All $40,000 eliminated. No negotiation. No risk of lawsuit.
+
+Difference: $30,562. The settlement path costs over 17 times more and takes 6-12 times longer. This does not mean settlement is always wrong -- but anyone considering it should run the numbers first.
+
+When Settlement Makes More Sense
+
+Settlement may be the better option when:
+
+You have a small number of debts with one or two creditors who are known to settle
+
+You have cash available for a lump-sum payment
+
+You do not qualify for Chapter 7 (above-median income, fail the means test)
+
+You own significant non-exempt assets you would lose in Chapter 7
+
+You recently filed bankruptcy and are within the discharge bar period (727a8.com)
+
+The total debt is relatively small (under $10,000) and the cost of bankruptcy would be disproportionate
+
+When Bankruptcy Makes More Sense
+
+Bankruptcy is typically the better option when:
+
+You have debt with multiple creditors
+
+You are being sued or your wages are being garnished
+
+You cannot save money for lump-sum settlements
+
+You have other debts besides credit cards (medical bills, personal loans)
+
+You qualify for Chapter 7 under the means test
+
+The tax liability from settlement would be significant
+
+You want all debt eliminated at once rather than negotiating account by account
+
+What Settlement Companies Do Not Tell You
+
+Creditors can sue you while you are saving money for settlements. The company cannot stop this.
+
+Fees come first. Many programs take their fees from your first payments, meaning creditors get nothing for months -- increasing the risk of lawsuits.
+
+Success rates are low. GAO and FTC studies have found that most people enrolled in debt settlement programs do not complete them.
+
+The 1099-C is real. You will owe income tax on every dollar of forgiven debt, potentially creating a tax bill you were not expecting.
+
+Your credit will still be damaged. Accounts must go delinquent before creditors will negotiate. That delinquency stays on your credit report for 7 years.
+
+See also: debtsettlementvsbankruptcy.com
+
+Related Pages
+
+Tax implications of settled debt (1099-C)
+
+How Chapter 7 discharges credit card debt
+
+How Chapter 13 handles credit card debt
+
+How much debt makes this worth pursuing
+
+How to spot debt settlement scams
+
+Which debts are nondischargeable
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+523a.org
+automaticstay.org
+meanstest.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## 1099-C: Tax Implications of Credit Card Debt Forgiveness -- Creditcardforgiveness
+Source: https://creditcardforgiveness.org/tax-implications.html
+
+Skip to main content
+
+creditcardforgiveness.org
+☰
+
+Home
+Settlement vs Bankruptcy
+Tax Implications
+Hardship Programs
+Scams
+Chapter 7
+Chapter 13
+How Much Debt
+FAQ
+
+The 1099-C Tax Trap
+
+Forgiven credit card debt is taxable income. Here is how it works and when exceptions apply.
+
+Network › Credit Card Forgiveness › Tax Implications
+
+Quick Answer
+
+When credit card debt is forgiven, settled, or written off, the IRS generally treats the forgiven amount as taxable income. Your creditor will issue a 1099-C for cancelled debt of $600 or more. However, two important exceptions exist: the insolvency exception (IRC Section 108(a)(1)(B)) lets you exclude cancelled debt if your total liabilities exceed your total assets, and the bankruptcy exception (IRC Section 108(a)(1)(A)) completely excludes debt discharged in bankruptcy from taxable income. Use IRS Form 982 to claim either exception.
+
+The Basic Rule: Cancelled Debt Is Income
+
+Under IRC Section 61(a)(11), gross income includes "income from discharge of indebtedness." When a creditor cancels, forgives, or settles a debt for less than the full amount, the IRS considers the difference to be income. This is sometimes called "phantom income" because you receive a tax bill without receiving any actual cash.
+
+If a creditor cancels $600 or more of debt, they are required to file Form 1099-C (Cancellation of Debt) with the IRS and send you a copy. You must report this amount as "Other income" on your tax return (Form 1040, Schedule 1, Line 10).
+
+Example: You owe $25,000 on a credit card. You settle for $12,500. The creditor issues a 1099-C for $12,500. If you are in the 22% tax bracket, you owe the IRS $2,750 on the "forgiven" debt. Many people are blindsided by this bill when they file their taxes the following year.
+
+This applies to all forms of debt cancellation outside of bankruptcy -- including settlements negotiated by debt settlement companies, hardship program write-offs, charge-offs where the creditor stops collecting, and even debts cancelled because the statute of limitations expired.
+
+When Do Creditors Issue 1099-Cs?
+
+Creditors are required to issue a 1099-C when a debt of $600 or more is cancelled. The IRS defines cancellation as occurring when any of the following "identifiable events" happen:
+
+A discharge in bankruptcy (though this is excluded from income -- see below)
+
+The creditor and debtor agree to cancel the debt (settlement)
+
+The statute of limitations for collection expires
+
+The creditor elects to discontinue collection activity (typically after 36 months of non-payment)
+
+A foreclosure, repossession, or the debtor abandons secured property
+
+A probate or receivership proceeding results in cancellation
+
+The 1099-C must be filed with the IRS by January 31 of the year following the cancellation event. You should receive your copy by February 15. If you settled a debt in 2025, expect the 1099-C in early 2026.
+
+Exception 1: The Insolvency Exception
+
+The most important exception for most people is the insolvency exception under IRC Section 108(a)(1)(B).
+
+You are "insolvent" when your total liabilities (everything you owe) exceed your total assets (everything you own). The exclusion applies up to the amount of insolvency.
+
+How to Calculate Insolvency
+
+Add up all your debts (mortgage, car loans, credit cards, medical bills, student loans, everything)
+
+Add up all your assets at fair market value (home equity, car value, bank accounts, retirement accounts, personal property)
+
+Subtract assets from liabilities. If the result is positive, you are insolvent by that amount.
+
+Example: Total liabilities: $120,000. Total assets: $80,000. You are insolvent by $40,000. If $15,000 of credit card debt is forgiven, you can exclude the entire $15,000 because your insolvency ($40,000) exceeds the cancelled amount ($15,000).
+
+To claim the insolvency exception, you must file IRS Form 982 (Reduction of Tax Attributes Due to Discharge of Indebtedness) with your tax return. Check Box 1b and enter the excluded amount on Line 2. Attach a worksheet showing your assets and liabilities as of the date immediately before the cancellation.
+
+What Counts as Assets and Liabilities?
+
+Liabilities include: mortgage balance, car loans, credit card balances, medical bills, student loans, personal loans, tax debts owed, judgments against you, and any other debts you owe -- including the debt that was just cancelled.
+
+Assets include: equity in your home (fair market value minus mortgage), vehicle value, bank account balances, retirement accounts (IRA, 401(k) -- this is a gray area, see below), cash value of life insurance, personal property (furniture, electronics, jewelry at resale value), and any other property you own.
+
+Partial insolvency example: Total liabilities: $95,000. Total assets: $80,000. You are insolvent by $15,000. A creditor cancels $25,000 of credit card debt. You can exclude only $15,000 (the amount of your insolvency) from income. The remaining $10,000 is taxable. If you are in the 22% tax bracket, you owe $2,200 on the non-excluded portion.
+
+The Retirement Account Question
+
+Whether retirement accounts count as assets for the insolvency calculation is not entirely settled. IRS Publication 4681 states that assets include the value of retirement accounts, and the Tax Court has generally agreed. However, some practitioners argue that ERISA-protected accounts should be excluded because creditors cannot reach them. The IRS position prevails in most cases -- retirement accounts are counted as assets. This can make the difference between qualifying for the insolvency exception and owing taxes, so it is an important factor in the calculation.
+
+Exception 2: Bankruptcy Discharge
+
+Under IRC Section 108(a)(1)(A), debt discharged in a Title 11 bankruptcy case is completely excluded from gross income. This is a bright-line rule with no calculation required.
+
+Key point: This exception applies to all debt discharged in bankruptcy -- not just credit card debt. And unlike the insolvency exception, there is no cap. Even if you have significant assets, the bankruptcy exclusion applies in full.
+
+If you receive a 1099-C for debt that was discharged in bankruptcy, you still file Form 982 checking Box 1a -- but you do not owe any tax on it.
+
+Tax Impact by Scenario
+
+ScenarioAmount forgivenTax bracketTax owed
+
+Settlement, solvent$15,00022%$3,300
+
+Settlement, insolvent by $15K+$15,00022%$0
+
+Settlement, insolvent by $8K$15,00022%$1,540 (tax on $7K)
+
+Chapter 7 discharge$15,000Any$0
+
+Chapter 13 discharge$15,000Any$0
+
+The Debt Settlement Tax Trap
+
+Debt settlement companies often advertise that they can reduce your debt by 40-60%. What they rarely mention is the tax consequence. When a settlement company negotiates your $30,000 credit card balance down to $12,000, the $18,000 of forgiven debt is taxable income. Combined with the settlement company's fees (typically 15-25% of the enrolled debt), the actual savings can be much smaller than advertised.
+
+Real-world scenario: You enroll $30,000 in credit card debt with a settlement company. They settle for $12,000. Their fee is 20% of the enrolled debt ($6,000). You receive a 1099-C for $18,000. In the 22% tax bracket, you owe the IRS $3,960. Total cost: $12,000 (settlement) + $6,000 (fee) + $3,960 (tax) = $21,960. Your actual savings: $8,040 -- not the $18,000 the company advertised. And this does not account for the late fees and penalties that accumulated during the months of non-payment while waiting for the settlement.
+
+This is why it is critical to calculate the tax impact before deciding between settlement and bankruptcy. In many cases, bankruptcy provides a better outcome because discharged debt is not taxable income.
+
+Common Questions
+
+What if I never received a 1099-C?
+
+You are still legally required to report the cancelled debt as income, even if the creditor failed to send you a 1099-C. The IRS requires creditors to file 1099-Cs, but not all do. In practice, if no 1099-C was issued and reported to the IRS, the IRS may not flag the income. However, the legal obligation to report is yours regardless of whether you receive the form.
+
+What if the 1099-C amount is wrong?
+
+Contact the creditor and request a corrected form (a corrected 1099-C has a checked box in the "CORRECTED" field at the top). If they refuse, report the amount you believe is correct on your return and attach a written explanation with supporting documentation (such as settlement letters showing the actual terms). Keep copies of everything.
+
+I received a 1099-C but I am still being collected on. What do I do?
+
+A 1099-C does not necessarily mean the creditor has stopped trying to collect. The IRS requires a 1099-C to be issued when certain events occur (such as 36 months of non-payment), but this does not extinguish the legal obligation to pay. If you receive a 1099-C and are still being contacted by collectors, the debt may have been sold to a third party. Consult an attorney, as this situation involves both tax and collections law.
+
+Can I claim insolvency for only part of the cancelled debt?
+
+Yes. The insolvency exclusion is limited to the amount by which you are insolvent. If you are insolvent by $10,000 and $25,000 of debt is cancelled, you exclude $10,000 and report $15,000 as income. Calculate your insolvency amount carefully to maximize the exclusion.
+
+What about state taxes on cancelled debt?
+
+Most states follow the federal treatment under IRC Section 108, meaning they also exclude cancelled debt from income when the insolvency or bankruptcy exception applies. However, some states do not fully conform to federal law and may tax cancelled debt even when the federal government does not. Notable states with potential differences include California, Massachusetts, and Pennsylvania. Check your state's specific rules or consult a tax professional.
+
+What if I settled multiple debts in the same year?
+
+Each cancelled debt is reported on a separate 1099-C, but for the insolvency exception, you calculate insolvency as of the date immediately before each cancellation event. If you settled three debts on different dates, you technically need three separate insolvency calculations. In practice, if all settlements occurred close together and your financial situation did not change significantly between them, the IRS generally accepts a single insolvency worksheet.
+
+Does the insolvency exception reduce my future tax benefits?
+
+Yes, there is a trade-off. Under IRC Section 108(b), when you exclude cancelled debt from income using the insolvency exception, you must reduce certain "tax attributes" -- including net operating loss carryovers, general business credit carryovers, capital loss carryovers, and the basis of your property. This means you may pay more tax in the future when you sell assets or use those carryovers. For most people with significant consumer debt, this trade-off is still worthwhile, but it is worth understanding.
+
+IRS Resources
+
+IRS Publication 4681 -- Canceled Debts, Foreclosures, Repossessions, and Abandonments
+
+IRS Form 982 -- Reduction of Tax Attributes Due to Discharge of Indebtedness
+
+IRS Topic 431 -- Canceled Debt: Is It Taxable or Not?
+
+Related Pages
+
+Settlement vs bankruptcy comparison
+
+How Chapter 7 discharges credit card debt
+
+How much debt makes bankruptcy worth it
+
+Nondischargeable debts (523a.org)
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+EIDL Loan Forgiveness
+
+Support the Open Bankruptcy Project
+
+1,500+ hours of research. No ads, no sponsors, no data collection.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on credit card and consumer debt:
+
+CFPB: Credit Card Resources
+CFPB tools
+
+Federal Reserve Consumer Credit (G.19)
+Fed data
+
+CFPB: Debt Relief Options
+Consumer guide
+
+FTC: Coping with Debt
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Credit Counseling Agencies
+DOJ approved list
+
+Consumer Debt Research
+Google Scholar
+
+Related Guides
+
+Average Credit Card Debt Stats
+
+Free bankruptcy information guide
+
+averagecreditcarddebt.org →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Taxes and Bankruptcy
+
+Free bankruptcy information guide
+
+bankruptcytaxes.org →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcarddebtbankruptcy.org
+debtsettlementvsbankruptcy.com
+523a.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
