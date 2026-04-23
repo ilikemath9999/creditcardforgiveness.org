@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://creditcardforgiveness.org/sitemap.xml
+
+Sitemap: https://creditcardforgiveness.org/sitemapindex.xml
